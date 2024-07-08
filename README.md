@@ -22,8 +22,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/volt4g3s"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="volt4g3s" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=volt4g3s&show_icons=true&locale=en&layout=compact" alt="volt4g3s" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=volt4g3s&show_icons=true&locale=en" alt="volt4g3s" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=volt4g3s&" alt="volt4g3s" /></p>
